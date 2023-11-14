@@ -37,6 +37,9 @@ header nav ul {
 header nav ul li a{
     color:white;
 }
+.greeting h2 {
+  color: #cc8400;
+  }
 .seccion-1{
     background-color:white;
     display: flex;
@@ -58,6 +61,7 @@ header nav ul li a{
 .acerca-de{
     width: 70%;
 }
+
 .seccion-2 img{
     display: flex;
     width: 100%;
